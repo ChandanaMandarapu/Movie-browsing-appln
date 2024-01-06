@@ -1,8 +1,3 @@
-# **ReactJS App Demo**
-By Grigorian's Tech Academy
-
-📺 **Grigorian's Tech Academy** is a YouTube channel dedicated to educating aspiring developers in full-stack Python, Django, JavaScript, React, and more! For comprehensive tutorials on the latest technologies, don't forget to [subscribe](https://www.youtube.com/@GrigoriansTechAcademy)!
-
 ## App description
 
 This repository contains the source code and documentation for a simple ReactJS app that allows users to browse and search for movies. The app displays movie cards, allows users to search for movies by name, and provides details about each movie on a dedicated movie page.
