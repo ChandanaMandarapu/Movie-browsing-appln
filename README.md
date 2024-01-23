@@ -1,8 +1,6 @@
-## App description
+## App description Movie Browsing Application has access to :
 
 This repository contains the source code and documentation for a simple ReactJS app that allows users to browse and search for movies. The app displays movie cards, allows users to search for movies by name, and provides details about each movie on a dedicated movie page.
-
-[View tutorial](https://youtu.be/i9yOamFiKKE)
 
 ## Table of Contents
 
@@ -24,12 +22,12 @@ To run this app locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/grigorians-tech-academy/zero-tube
+   git clone https://github.com/ChandanaMandarapu/Movie-browsing-appln
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd zero-tube
+   cd Movie-browsing-appln
    ```
 
 3. **Install dependencies:**
