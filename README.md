@@ -55,7 +55,3 @@ To run this app locally, follow these steps:
 - React
 - React Router
 - Axios
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
